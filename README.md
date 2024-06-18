@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nikola</h1>
 <h3 align="center">A passionate full stack developer with tendency towards backend :D</h3>
 
+[![Dante983's GitHub | Stats](https://stats.quira.sh/Dante983/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Dante983)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dante983&label=Profile%20views&color=0e75b6&style=flat" alt="dante983" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dante983" alt="dante983" /></a> </p>
