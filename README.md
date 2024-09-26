@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dante983" alt="dante983" /></a> </p>
 
-- 🔭 I’m currently working on [https://dante983.github.io/portfolio](https://dante983.github.io/portfolio)
+- 🔭 I’m currently working on [snippetbox app in Go](https://dante983.github.io/snippetbox)
 
 - 🌱 I’m currently learning **golang to become goblin**
 
