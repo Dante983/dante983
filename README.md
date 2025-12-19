@@ -1,34 +1,36 @@
-<h1 align="center">Hi 👋, I'm Nikola</h1>
-<h3 align="center">A passionate full stack developer with tendency towards backend :D</h3>
-
-[![Dante983's GitHub | Stats](https://stats.quira.sh/Dante983/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Dante983)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dante983&label=Profile%20views&color=0e75b6&style=flat" alt="dante983" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dante983" alt="dante983" /></a> </p>
-
-- 🔭 I’m currently working on [ghostscript](https://www.github.com/Dante983/GhostScript)
-
-- 🌱 I’m currently learning **golang to become goblin**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Dante983?tab=repositories](https://github.com/Dante983?tab=repositories)
-
-- 💬 Ask me about **php or laravel, it's my first true love**
-
-- 📫 How to reach me **savicn209@gmail.com**
-
-- ⚡ Fun fact **I love flight simulation games lol**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nikola-savi%c4%87-10b8b9179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikola-savi%c4%87-10b8b9179/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://dante983.github.io/portfolio/" title="Portfolio"><img src="https://img.shields.io/badge/Terraform_Components-5C4EE6.svg?style=for-the-badge" alt="Portfolio"></a>
+  <!-- <a href="https://rosesecurity.dev/" title="Development Blog"><img
+src="https://img.shields.io/badge/Development_Blog-1d1d1d.svg?style=for-the-badge" alt="Terraform AWS Components"></a>
+  <a href="https://github.com/cloudposse" title="Open Source Contributions">
+  <img 
+    src="https://img.shields.io/badge/Open_Source_Contributions-5C4EE6.svg?style=for-the-badge" 
+    alt="Open Source Contributions Badge">
+</a> -->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=About+Me%3A)](https://git.io/typing-svg)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dante983&show_icons=true&locale=en&layout=compact" alt="dante983" /></p>
+> [!IMPORTANT]
+> Hey, I'm **Nikola Savic**!
+>
+> I build [tools](https://github.com/search?q=owner%3ARoseSecurity%20topic%3Atools&type=repositories) that make managing infrastructure easier to run and safer to scale. Day-to-day I'm in the Terraform and Go trenches, maintaining widely used modules, authoring providers, and contributing to [Terraform Best Practices](https://www.terraform-best-practices.com/) and [Terraform Proverbs](https://rosesecurity.dev/2024/11/24/terraform-proverbs.html). Beyond infrastructure, I architect data engineering pipelines and specialize in building scalable ML/AI platforms for companies in the cloud. I live in the CLI, am the creator of Red-Teaming TTPs, and am a [MITRE](https://attack.mitre.org/resources/engage-with-attack/contribute/), [OWASP](https://nest.owasp.org/members/RoseSecurity), and [Debian](https://nm.debian.org/person/rosesecurity/) contributor!
+> 
+> If you enjoy my [community code](https://github.com/search?q=author%3Arosesecurity%20type%3Apr%20state%3Aclosed%20is%3Amerged%20-user%3Arosesecurity&type=pullrequests), [blogs](https://rosesecurity.dev/), or [tools](https://github.com/RoseSecurity?tab=repositories), feel free to reach out and connect!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dante983&show_icons=true&locale=en" alt="dante983" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dante983&" alt="dante983" /></p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Development+Blog%3A)](https://git.io/typing-svg)
+
+<!-- BLOG-POST-LIST:START -->
+- [Infra Proverbs](https://rosesecurity.dev/2025/12/17/infra-proverbs.html)
+- [Terraform Drift Detection Powered by GitHub Actions](https://rosesecurity.dev/2025/12/11/terraform-drift-detection-with-github-actions.html)
+- [Terraform Tips from the IaC Trenches](https://rosesecurity.dev/2025/12/04/terraform-tips-and-tricks.html)
+- [KISS vs DRY in Infrastructure as Code: Why Simple Often Beats Clever](https://rosesecurity.dev/2025/11/14/kiss-versus-dry-iac.html)
+- [Gang of Three: Pragmatic Operations Design Patterns](https://rosesecurity.dev/2025/10/23/gang-of-three.html)
+- [Testing IaC with the TerraStack](https://rosesecurity.dev/2025/08/15/testing-iac-with-the-terrastack.html)
+- [Rushing Toward Rewrite](https://rosesecurity.dev/2025/03/26/rushing-toward-rewrite.html)
+- [Engineering in Quicksand](https://rosesecurity.dev/2025/03/12/engineering-in-quicksand.html)
+- [The Abstraction Debt in Infrastructure as Code](https://rosesecurity.dev/2025/03/06/the-abstraction-debt-in-iac.html)
+- [Terraform Proverbs](https://rosesecurity.dev/2024/11/24/terraform-proverbs.html)
+<!-- BLOG-POST-LIST:END -->
