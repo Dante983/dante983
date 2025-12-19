@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://dante983.github.io/portfolio/" title="Portfolio"><img src="https://img.shields.io/badge/Terraform_Components-5C4EE6.svg?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://dante983.github.io/portfolio/" title="Portfolio"><img src="https://img.shields.io/badge/Portfolio-5C4EE6.svg?style=for-the-badge" alt="Portfolio"></a>
   <!-- <a href="https://rosesecurity.dev/" title="Development Blog"><img
 src="https://img.shields.io/badge/Development_Blog-1d1d1d.svg?style=for-the-badge" alt="Terraform AWS Components"></a>
   <a href="https://github.com/cloudposse" title="Open Source Contributions">
