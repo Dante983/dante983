@@ -31,11 +31,11 @@ var nikola = Developer{
     Backend:  []string{"Laravel", "PHP", "Go"},
     Frontend: []string{"React", "Vue", "Angular", "TypeScript"},
     Workflow: []string{"Neovim", "tmux", "Docker", "Linux"},
-    FunFact:  "Flight simulation enthusiast and aspiring Go goblin",
+    FunFact:  "Flight simulation enthusiast and aspiring goblin",
 }
 ```
 
-- 🔭 Currently building **[Clickalytic Analytics Platform](https://github.com/Dante983/ghostscript-analytics)** in Go
+- 🔭 Currently building **[AssistFlow Platform](https://github.com/AssistsFlow/AssistFlow)** in Laravel/React
 - ⚙️ Interested in clean APIs, maintainable architecture, queues, caching, and developer tooling
 - 🌱 Going deeper into the Go ecosystem while keeping Laravel as my first backend love
 - 🛠️ Happiest in a terminal with Neovim and tmux
@@ -66,6 +66,7 @@ var nikola = Developer{
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| **[AssistFlow Platform](https://github.com/AssistsFlow/AssistFlow)** | A support platform currently under active development. | Laravel · PHP · React|
 | **[Clickalytic Analytics](https://github.com/Dante983/ghostscript-analytics)** | An analytics platform currently under active development. | Go |
 | **[Snippetbox](https://github.com/Dante983/snippetbox)** | A secure web application for creating and managing code snippets. | Go · MySQL · TLS |
 | **[Go Blog](https://github.com/Dante983/go-blog)** | A personal blogging platform built around server-driven interactions. | Go · HTMX · MySQL |
